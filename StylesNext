@@ -1,0 +1,87 @@
+body {
+      font-family: 'Roboto Condensed', sans-serif;
+      background-color: #f8f9fa;
+      color: #333;
+    }
+    
+    h1, h2, h3, h4, h5 {
+      font-family: 'Oswald', sans-serif;
+      color: #b30000;
+    }
+    
+    .navbar-custom {
+      background-color: #1a1a1a;
+    }
+    
+    .navbar-custom .navbar-brand {
+      font-family: 'Oswald', sans-serif;
+      font-size: 1.8rem;
+      color: #ffcc00;
+    }
+    
+    .navbar-custom .nav-link {
+      color: #fff;
+    }
+    
+    .navbar-custom .nav-link:hover {
+      color: #ffcc00;
+    }
+    
+    .page-header {
+      background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url('https://wallpapercave.com/wp/wp5579924.jpg');
+      background-size: cover;
+      background-position: center;
+      color: white;
+      padding: 80px 0;
+      margin-bottom: 40px;
+    }
+    
+    .product-table {
+      background-color: white;
+      border-radius: 10px;
+      overflow: hidden;
+      box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+      margin-bottom: 40px;
+    }
+    
+    .table thead {
+      background-color: #b30000;
+      color: white;
+    }
+    
+    .table-hover tbody tr:hover {
+      background-color: rgba(179, 0, 0, 0.1);
+    }
+    
+    .product-img {
+      width: 60px;
+      height: 60px;
+      object-fit: cover;
+      border-radius: 5px;
+    }
+    
+    .badge-sale {
+      background-color: #b30000;
+    }
+    
+    .badge-new {
+      background-color: #28a745;
+    }
+    
+    .btn-jojo {
+      background-color: #b30000;
+      color: white;
+      border: none;
+    }
+    
+    .btn-jojo:hover {
+      background-color: #ffcc00;
+      color: #1a1a1a;
+    }
+    
+    footer {
+      background-color: #1a1a1a;
+      color: white;
+      padding: 30px 0;
+      margin-top: 50px;
+    }
