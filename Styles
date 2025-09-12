@@ -1,65 +1,65 @@
 .carouselIMG {
-  width: 100%;
-  height: 200px;
-  object-fit: cover;
-  align: center;
-}
-
-.carouselIMG2 {
-  width: 100%;
-  height: 200px;
-  object-fit: cover;
-  object-position: 0% 15.33333%;
-  align: center;
-}
-
-.carouselIMG3 {
-  width: 200px;
-  height: 200px;
-  object-fit: cover;
-  margin: 0 auto;
-  start: 0;
-  end: 0;
-  align: center;
-}
-
-.carousel-control-prev{
-  top: 90%;
-  width: auto;
-  object-position: 20% 0%;
-}
-
-
-.textingboxes {
-  border: 1em solid;
-  width: auto;
-  height: auto;
-  color: rgb(245, 245, 245);
-  background-color: rgb(39, 39, 59) ;
-  font-family: "Times New Roman";
-  border-radius: 10%;
-  padding: 50px;
-  font-size: 30px;
-}
-
-.textingheaders {
-  border: 1em solid;
-  width: auto;
-  color: rgb(248, 248, 248);
-  background-color: rgb(198, 153, 41);
-  text-align: center;
-  font-family:"Merriweather";
-  font-weight: bold;
-  font-size: 55px;
-}
-
-.body {
-  background-color: rgb(220, 220, 220);
-  font-size: 20px;
-}
-
-.title {
-  font-family: "Cormorant Garamond";
-  font-weight: bolder;
-  font-size: 60px;
-}
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    align: center;
+  }
+  
+  .carouselIMG2 {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    object-position: 0% 15.33333%;
+    align: center;
+  }
+  
+  .carouselIMG3 {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    margin: 0 auto;
+    start: 0;
+    end: 0;
+    align: center;
+  }
+  
+  .carousel-control-prev{
+    top: 90%;
+    width: auto;
+    object-position: 20% 0%;
+  }
+  
+  
+  .textingboxes {
+    border: 1em solid;
+    width: auto;
+    height: auto;
+    color: rgb(245, 245, 245);
+    background-color: rgb(39, 39, 59) ;
+    font-family: "Times New Roman";
+    border-radius: 10%;
+    padding: 50px;
+    font-size: 30px;
+  }
+  
+  .textingheaders {
+    border: 20px solid;
+    width: auto;
+    color: rgb(248, 248, 248);
+    background-color: rgb(198, 153, 41);
+    text-align: center;
+    font-family:"Merriweather";
+    font-weight: bold;
+    font-size: 55px;
+  }
+  
+  .body {
+    background-color: rgb(220, 220, 220);
+    font-size: 20px;
+  }
+  
+  .title {
+    font-family: "Cormorant Garamond";
+    font-weight: bolder;
+    font-size: 60px;
+  }
