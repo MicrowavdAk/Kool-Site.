@@ -44,6 +44,7 @@
     <li><a class="dropdown-item" href="#Emailings">Emails and pw input which does nothing.</a></li>
     <li><a class="dropdown-item" href="#KoolImages">Carousel stuff</a></li>
     <li><a class="dropdown-item" href="#KoolButton">Random thing that takes you to a button. I forgor what it does.</a></li>
+    <li><a class="dropdown-item" href="#Abouts">About the 2 musketeers of this site.</a></li>
   </ul>
 </div>
   </div>
@@ -74,6 +75,17 @@ Speaking of chaos, imagine stumbling into an online store filled with the same e
 
 Araki once said art should outlast its creator. Maybe the same applies to cool online stores. Maybe we’re all just shopping for immortality, one flamboyant accessory at a time.</p>
 
+
+<H1 id="Abouts">About us</H1>
+<H1>The Tism One</H1>
+<br>
+
+<p>The tism one was who sparked the idea of this site. He likes JJBA which is why he made this site with his close friend: The burnt one. The tism one is fond of Anime and loves planes. His reason for being dfond of aeronautical engineering was from an anime.</p>
+
+<H1>The Burnt One</H1>
+<br>
+
+<p>The burnt one is a close friend of the tism one. He was who designed the css for the tables. He also likes anime which is why he helped the Tism One. He's fond of Basketball spending most of his time in DBL.</p>
     <!--Carousel thingy-->
   <div id="KoolImages" class="carousel slide mt-4">    
  
