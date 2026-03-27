@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="styles/styles.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+</head>
+<body>
+
+<h1>
+    Welcome to the random site where you buy random stuff. Idk why i made this. Anyway below is a cool table where you can buy stuff from. Below is some random AI slop paragraph about why a 3 dollar and 85 cent burger is worth its price.
+</h1>
+
+<div id="carouselBURGER" class="carousel slide">
+    <div class="carousel-inner">
+      <div class="carousel-item active">
+        <img src="https://m.media-amazon.com/images/M/MV5BNTMwNzE4ZGItZmI2OC00NGJjLWEyM2EtNjI2ZWE0NTY2MWY0XkEyXkFqcGc@._V1_.jpg" class="d-block w-100" alt="...">
+      </div>
+      <div class="carousel-item">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoORxbBJEdREMC45tD4_rtzrOaZSWReeay5g&s" class="d-block w-100" alt="...">
+      </div>
+      <div class="carousel-item">
+        <img src="https://media-order.bkdelivery.co.id/thumb/product_photo/2023/3/20/ajuo5usbugng9joydqvzkb_product_details.jpg" class="d-block w-100" alt="...">
+      </div>
+    </div>
+    <button class="carousel-control-prev" type="button" data-bs-target="#carouselBURGER" data-bs-slide="prev">
+      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+      <span class="visually-hidden">Previous</span>
+    </button>
+    <button class="carousel-control-next" type="button" data-bs-target="#carouselBURGER" data-bs-slide="next">
+      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+      <span class="visually-hidden">Next</span>
+    </button>
+  </div>
+
+<table class="table table-bordered mt-4">
+    <tr>
+      <th>Number thing.</th>
+      <th>Thing you can buy.</th>
+      <th>Pricing</th>
+      <th>The I WANNA BY ITTTT button that sends you to the page where you can buy the thing.</th>
+    </tr>
+    <tr>
+      <td>Data A1</td>
+      <td>Data A2</td>
+      <td>Data A3</td>
+      <td><button class="btn btn-primary">BUY</button></td>
+    </tr>
+    <tr>
+      <td>Data B1</td>
+      <td>Data B2</td>
+      <td>Data B3</td>
+      <td><button class="btn btn-success">BUY</button></td>
+    </tr>
+</table>
+
+<p>
+    ok so like basically the $3.85 cheeseburger from wendys is like… very good but also maybe not but also yes?? because harga murah banget and like you can eat it when lapar and stuff. the burger is burgering, the cheese is cheesing, and everything is just kinda there you know. honestly this essay is going nowhere but thats kinda the point so lets continue.
+
+first of all the meat is like meat-ish. sometimes juicy sometimes not juicy kadang-kadang aneh but still edible so thats a plus i think. the bread is bread, roti biasa aja, nothing crazy but it holds the borgar together so it deserves respect. without bread everything jatuh berantakan and then boom disaster tragedioso grande.
+
+also the price is $3.85 which is like not 4 dollars which means you save 0.15 which is like… um… matematikanya bagus sekali. saving money is good because dinero is importante para kehidupan manusia and stuff. if you buy many burger maybe you save like 1 dollar eventually which is like WOW ekonomi 📉📈 idk.
+
+the taste is like salty cheesy meaty but also sometimes confusing?? like one bite enak banget and next bite its like huh apa ini. but then suddenly your brain just goes “wendeeznuts are in yo mouth” and you’re like why did i think that. no explanation. kehidupan penuh misteri.
+
+now lets talk about experience because experience is experiential. when you go to wendys you order and then you wait and then you get burger. thats the process. proses kehidupan cepat saji. sometimes the worker says “have a nice day” and you say “you too” even if its night. that adds emotional flavor to the burger i think. sabor emocional muy importante.
+
+also the burger is not big but not small but like medium-ish pero tambien pequeño?? depends on perspective filosofi ukuran burger. if you are very hungry entonces its tiny but if not then its suficiente enough-ish. words are failing but its ok because essay is supposed to be bad so mission accomplished.
+
+another thing is consistency but also inconsistency. sometimes same sometimes diferente. seperti hidup, life is unpredictable and so is this cheeseburger. one day 10/10 next day 6/10 but still you eat it because yaudah lah.
+
+and also wendeeznuts are in yo mouth again for no reason. see it just appears. like magic pero cursed magic.
+
+in conclusion (or not really conclusion because nothing makes sense) the $3.85 cheeseburger from wendys is worth it because murah, murh and like... Idk it just enak. it exists and you can buy it and eat it and then its gone. seperti waktu yang terus berjalan sin parar. the burger is temporary tapi the memory juga also temporary.
+
+so yeah overall burger good but also bad but also yes. gracias dan terima kasih for reading this very terrible essay that probably makes zero sense and breaks every rule ever invented by writing teachers everywhere.
+</p>
+
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js" integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.min.js" integrity="sha384-G/EV+4j2dNv+tEPo3++6LCgdCROaejBqfUeNjuKAiuXbjrxilcCdDz6ZAVfHWe1Y" crossorigin="anonymous"></script>
+
+</body>
+</html>
