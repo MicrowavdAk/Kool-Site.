@@ -43,20 +43,20 @@
       <th>The I WANNA BY ITTTT button that sends you to the page where you can buy the thing.</th>
     </tr>
     <tr>
-      <td>Data A1</td>
-      <td>Data A2</td>
-      <td>Data A3</td>
+      <td>1</td>
+      <td>5 BURGERS</td>
+      <td>$3</td>
       <td><button class="btn btn-primary">BUY</button></td>
     </tr>
     <tr>
-      <td>Data B1</td>
-      <td>Data B2</td>
-      <td>Data B3</td>
+      <td>2</td>
+      <td>10 BURGERS</td>
+      <td>$6 or 7 idk.</td>
       <td><button class="btn btn-success">BUY</button></td>
     </tr>
 </table>
 
-<p>
+<p class="GptPar">
     ok so like basically the $3.85 cheeseburger from wendys is like… very good but also maybe not but also yes?? because harga murah banget and like you can eat it when lapar and stuff. the burger is burgering, the cheese is cheesing, and everything is just kinda there you know. honestly this essay is going nowhere but thats kinda the point so lets continue.
 
 first of all the meat is like meat-ish. sometimes juicy sometimes not juicy kadang-kadang aneh but still edible so thats a plus i think. the bread is bread, roti biasa aja, nothing crazy but it holds the borgar together so it deserves respect. without bread everything jatuh berantakan and then boom disaster tragedioso grande.
